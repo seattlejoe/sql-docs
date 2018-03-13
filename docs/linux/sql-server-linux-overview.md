@@ -53,5 +53,5 @@ If you are already familiar with SQL Server, review the [Release notes](sql-serv
 
 > [!TIP]
 > For answers to frequently asked questions, see the [SQL Server on Linux FAQ](sql-server-linux-faq.md).
-
+ 
 [!INCLUDE[Get Help Options](../includes/paragraph-content/get-help-options.md)]
