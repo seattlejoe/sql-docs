@@ -1,4 +1,4 @@
----
+ ---
 title: Installation guidance for SQL Server 2017 on Linux | Microsoft Docs
 description: Install, update, and uninstall SQL Server on Linux. This article covers online, offline, and unattended scenarios. 
 author: rothja 
